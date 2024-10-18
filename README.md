@@ -21,5 +21,5 @@ I’m **Nguyen Vinh Khanh**, a university student studying **Data Science in Eco
 
 - 📫 How to reach me:
   - Email: khanh14122005@gmail.com
-  - LinkedIn: (https://www.linkedin.com/in/vinh-khanh-ng/)
+  - LinkedIn: https://www.linkedin.com/in/vinh-khanh-ng/
 
