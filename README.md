@@ -20,8 +20,6 @@ I’m **Nguyen Vinh Khanh**, a university student studying **Data Science in Eco
   - Data science techniques, machine learning models, and their application in business.
 
 - 📫 How to reach me:
-  - Email: your-email@example.com
-  - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+  - Email: khanh14122005@gmail.com
+  - LinkedIn: (https://www.linkedin.com/in/vinh-khanh-ng/)
 
-- ⚡ Fun fact:
-  - I'm passionate about combining data science with real-world business challenges to drive impactful insights.
